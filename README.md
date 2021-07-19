@@ -28,4 +28,4 @@ Datasets: we have four diffrent datasets (.CSV file) of Customer attrition , Cus
 6) We have removed the leading/trailing spaces from data if any.
 7) Finally cleaned and transformed the data as pe requirements.
 8) Performed anaysis like how many users left the PUM services based on geography and Gender ,how many users are from different geograpghy.
-9) We have anayzr the trend using countplot method to visuaize the problem statement.
+9) We have anayze the trend using countplot method to visuaize the problem statement.
